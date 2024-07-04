@@ -1,6 +1,5 @@
 ## Inventory Management
 ### Operations I Course of the Industrial Engineering Program
-#### Icesi University – Semester 24-1
 
 **Problem Definition:**
 
